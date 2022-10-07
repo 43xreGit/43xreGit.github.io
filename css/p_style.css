@@ -18,8 +18,7 @@
 }
 
 body {
-  background: rgb(131,58,180);
-  background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 100%, rgba(252,69,69,1) 100%);
+  background-image: url("https://cs9.pikabu.ru/post_img/big/2016/11/28/6/148032712415225377.jpg");
 }
 .pressed-button {
   text-decoration: none;
