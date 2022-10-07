@@ -17,9 +17,9 @@
   font-family: sans-serif;
 }
 [id="SUIITAB"]{background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%); 
-  width: 24%;}
+  width: 100%;}
 [id="NOTTAB"]{background-image: linear-gradient(45deg, #6ab1d7 0%, #33d9de 50%, #002878 100%); 
-  width: 76%;}
+  width: 100%;}
 body {
   background-image: url("https://cs9.pikabu.ru/post_img/big/2016/11/28/6/148032712415225377.jpg");
 }
