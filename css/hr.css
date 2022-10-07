@@ -1,0 +1,9 @@
+/*Это линия отделения как <br> только лучше
+By Exellent1337*/
+
+hr {
+  margin: 20px 0;
+  padding: 0;
+  height: 0;
+  border: none;
+}
